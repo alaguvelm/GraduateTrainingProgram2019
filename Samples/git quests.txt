@@ -1,0 +1,30 @@
+﻿1. What is Git fork? What is difference between fork, branch and clone?
+
+2.What is the difference between "git pull" and "git fetch"?
+
+3. difference between HEADand staging index, in Git?
+
+4. What is hot fix ?
+
+5. What is Gitlog and when you can use it?
+
+
+6. How can you create a repository in Git?
+
+7. Command to switch from one branch to another branch?
+
+8. Command to create a new branch and also switches to it.
+
+
+9. What is the function of ‘git config’ with appropriate commands?
+
+10. What is a conflict in git and how can it be resolved?
+
+11. How to revert previous commit in git?
+
+12. What is the syntax for “Rebasing” in Git?
+
+13. How can I delete branches in Git?
+
+14. What is the difference between Git and SVN?
+
