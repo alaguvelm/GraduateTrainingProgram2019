@@ -65,3 +65,30 @@ Question from Sreeraj and Anupama:
                                 What is Intellig?
 
                                 Teradata - training?
+
+
+Questions from Charlie
+
+Python : 
+1) What is the difference between List, Tuple and Dictionary with Real Time Examples.
+2) Print a string from backwards.
+3) print a string in a list.
+4) define a function to count total occurences of each character in a string.
+
+SQL:
+
+customer table:
+|id| |name|
+1     jack
+5     bob
+7     julie
+
+movie table:
+|mid|  |customer_id|  |names|
+1	    1	     Bahubali
+5           1        2.0
+7           7        GeoStorm 
+9	    7        Avengers
+
+1) Print the customers who have not watched any movies.
+
