@@ -1,0 +1,190 @@
+                                                  INTERVIEW QUESTIONS
+                                                  
+**********************************************************************************************************************************
+HADOOP
+**********************************************************************************************************************************
+
+1.	Difference between "Sort By" and "Group by" in Hive. How they work?
+2.	If we use the "Limit 1" in any SQL query in Hive, will Reducer work or not.
+3.	Difference between Sort By and Order By
+4.	What is the difference between partitioning and bucketing a table in Hive?
+5.	How to set variables in HIVE scripts?
+6.	How to select current date in Hive SQL?
+7.	After adding a partition to an external table in Hive, how can I update/drop it?
+8.	How to delete and update a record in Hive?
+9.	How does impala provide faster query response compared to hive?
+10.	Hive cluster by vs order by vs sort by
+11.	How to load data to hive from HDFS without removing the source file?
+12.	How to Access Hive via Python?
+13.	Loading Data from a .txt file to Table Stored as ORC in Hive
+14.	How do you make a HIVE table out of JSON data?
+15.	How to convert .txt file to Hadoop's sequence file format?
+16.	How to use sqoop to export the default hive delimited output?
+17.	Sqoop import having SQL query with where clause?
+18.	How to do Sqoop Incremental Import?
+19.	Sqoop import without primary key in RDBMS?
+20.	  how sqoop import multiple tables?
+21.	What is the difference between --split-by and --boundary-query in SQOOP?
+22.	What is --direct mode in sqoop?
+23.	Difference between --fileds-terminated-by & --input-fields-terminated-by in sqoop hive commands
+24.	What is the difference between map and flatMap and a good use case for each?
+25.	What is the difference between cache and persist?
+26.	What are workers, executors, cores in Spark Standalone cluster?
+27.	Spark - repartition() vs coalesce()?
+28.	Apache Spark: The number of cores vs. the number of executors
+29.	How to read multiple text files into a single RDD?
+30.	Why) do we need to call cache or persist on a RDD?
+31.	How to stop INFO messages displaying on spark console?
+32.	How to show full column content in a Spark Dataframe?
+33.	How to change column types in Spark SQL's DataFrame?
+34.	How to convert rdd object to dataframe in spark
+35.	How to print the contents of RDD?
+36.	Apache Spark: map vs mapPartitions?
+37.	How do I add a new column to a Spark DataFrame (using PySpark)?
+38.	How to make saveAsTextFile NOT split output into multiple file? in spark?
+39.	How to change a Dataframe column from String type to Double type in pyspark?
+40.	How to save DataFrame directly to Hive using spark?
+
+**********************************************************************************************************************************
+PYTHON
+**********************************************************************************************************************************
+1.	Dict
+2.	List
+3.	Tuple
+4.	Differences for above 3
+5.	Unit testing
+6.	Exception handling
+7.	virtualenv
+8.	Looping
+9.	DB connections
+10.	File – Reading, writing,
+11.	String problems
+12.	PEP8
+13.	Pip install
+14.	ignore topics if there is no experience with frameworks like Flask or DJango
+15.	built in functions like Help, dir
+16.	*args, **kwargs
+17.	Monkey patching?
+18.	Best coding practices/standards
+19.	Security questions
+20.	Performance questions
+21.	How do you calculate the square root of a number in python without using any built in functions.You can use Addition,division,multiplication,subtraction to achieve the result.
+22.	Write program to print multiplication table.
+23.	Write program to reverse the string [ different options , like using standard function or using loop etc ]
+24.	Difference between dictionary, list, tuples
+25.	Write program to count the number of occurrences of chars in a string. Example : str ='aabbccc' o/p 2a2b3c
+26.	How do you calculate the square root of a number in python without using any built in function. You can use Addition, division, multiplication, subtraction to achieve the result.
+27.	How do you compare two strings and verify if they are anagrams.
+28.	Check whether a number is Prime or not. If prime display it as prime .if not prime find its prime divisor
+29.	“Find 24 sum of 6 the numbers 56 in the sentence.”( sum of numbers in the strings)
+30.	Object oriented programming with example
+
+
+**********************************************************************************************************************************
+DEVOPS
+**********************************************************************************************************************************
+
+•	GIT
+1.	Git branching strategy
+2.	Version controlling
+3.	How you will integrate Jenkins with GIT
+4.	Need for Git
+5.	Need for branching in Git
+6.	If not Git where would be the organization storing its source code
+7.	How are Git, Maven, Jenkins are connected ?
+
+•	MAVEN
+
+1.	Maven cmd to run locally
+2.	How to build a Maven project 
+3.	Maven lifecycle
+4.	What is Dependency Management?
+5.	What is build?
+6.	Maven life cycle commands 
+7.	Maven dependencies
+8.	how to configure plugins in maven
+9.	Maven Distribution Management
+10.	Active profiles in maven
+11.	How to add repo to maven
+12.	Maven goals and phases
+13.	Have you used maven with ANT?
+
+•	LINUX COMMANDS
+1.	Process check in Linux server 
+2.	List the process running
+3.	Memory usage of Linux server
+
+•	DOCKERS
+1.	Docker networking
+2.	Docker tags
+3.	Docker file creation
+4.	Image and container management
+
+•	JENKINS
+1.	 Ci-cd pipeline stages
+2.	Pipeline/free style which is better
+3.	About Jenkins
+4.	How to schedule job in Jenkins?
+5.	How to deploy jobs in Jenkins (Any example)
+6.	How to install plugins?
+
+•	ANSIBLE
+1.	Ansible playbook
+2.	Ansible vault
+3.	How to deploy jobs from Jenkins using ansible?
+4.	Ansible modules
+5.	What is the use of Ansible?
+
+
+•	AWS
+1.	AWS Services
+2.	AWS volumes
+3.	EC2
+
+
+
+**********************************************************************************************************************************
+TECHNICAL QUESTIONS
+**********************************************************************************************************************************
+
+1.	explain 7 layers of OSI architecture(Operating systems)
+2.	Difference between compiler and interpreter
+3.	How does a compiler work(explaining phases of compiler-compiler design)
+4.	Difference between assembly code and machine code and an example for assembly code
+5.	oops concepts in java
+
+
+**********************************************************************************************************************************
+GENERIC QUESTIONS
+**********************************************************************************************************************************
+1.	Prepare 2 mins self-introduction with total experience and relevant technical experience.
+2.	About the projects(both GFT and asset)
+3.	explaining different sorting algorithms
+4.	How do you string reversal using 'for' loop
+5.	Fibanocci program 
+6.	Fibanocci using functions
+7.	Check whether number is prime if not print it’s factors ( just pseudocode)
+8.	Swap cases in a string
+9.	Find consecutive character count in string
+10.	Count of characters in string
+11.	Permutation & combination
+12.	Vowel count in a string
+13.	Multiplication table
+14.	Find Prime number 
+15.	Sort list based on second character in each element in string
+16.	extract number and alphabets in seperate list
+17.	find Palindrome  
+18.	Anagram pattern
+19.	Square root a number without math package
+20.	Pattern match in a string
+21.	Pythagoras theorem
+22.	Convert timestamp to date format
+23.	get web service information using requestlib
+24.	Lambda operations [a,b,c,d] => [a1,b1,c1,d1] without loop
+25.	Polymorphism in real-time concepts
+
+
+
+
+
+
